@@ -1,0 +1,6 @@
+[package]
+name = "rune_spell_wand"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
